@@ -9,6 +9,10 @@
 
 The code of the Exponential Randomised Response mechanism can be specifically found [here](https://github.com/gonzalo-munillag/Exponential_Randomised_Response/blob/0155ffea84110c2c02841f070bdb5379381b2cb7/differential-privacy-library-main/diffprivlib/mechanisms/exponential.py#L194).
 
+## Acknowledgement
+
+I would like to thank Ryan McKenna for kindly providing the codebase of his mechanism [permute-and-flip](https://crossminds.ai/video/permute-and-flip-a-new-mechanism-for-differentially-private-selection-606fe85ff43a7f2f827c0a45/) and for kindly answering questions about his mechanism.
+
 ## Setup
 
 1) In the terminal, go to the differential-privacy-library-main folder and install my modified version of diffprivlib (the modification is the addition of the novel mechanism that I present in the aforementioned paper):
