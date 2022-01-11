@@ -31,7 +31,7 @@ These are some of the figures you may find.
 
 ![1](Experiments/Figures/zz_Expected_errors_experiments_varying_c_mid_num_categories_low_eps.png)
 
-![1](Experiments/Figures/zz_Bounded_worst_case_expected_error_analysis_low_eps.png)
+![1](Experiments/Figures/zz_median_Expected_error_bar_plot.png)
 
 ![1](Experiments/Figures/zz_Bounded_worst_case_expected_error_analysis_low_eps.png)
 
