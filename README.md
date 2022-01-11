@@ -22,3 +22,7 @@ from diffprivlib.mechanisms import exponential
 3) To use the novel method, call:
 
  exponential.EnhancedRandomizedResponse(...)
+ 
+## Reproduce the paper
+
+All the code to reproduce the figures of the paper is in the folder [Experiments](https://github.com/gonzalo-munillag/Exponential_Randomised_Response/tree/main/Experiments).
