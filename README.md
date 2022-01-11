@@ -11,7 +11,7 @@ The code of the Exponential Randomised Response mechanism can be specifically fo
 
 ## Acknowledgement
 
-I would like to thank Ryan McKenna for kindly providing the codebase of his mechanism [permute-and-flip](https://crossminds.ai/video/permute-and-flip-a-new-mechanism-for-differentially-private-selection-606fe85ff43a7f2f827c0a45/) and for kindly answering questions about his mechanism.
+I would like to thank Ryan McKenna for kindly providing the codebase of his mechanism [permute-and-flip](https://crossminds.ai/video/permute-and-flip-a-new-mechanism-for-differentially-private-selection-606fe85ff43a7f2f827c0a45/) and for kindly answering questions about his mechanism and [codebase](https://github.com/ryan112358/permute-and-flip).
 
 ## Setup
 
