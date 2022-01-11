@@ -5,7 +5,7 @@ This repository contains the code to reproduce the publication "---".
 
 ## Contents
 
-Experiments: Folder containing all the empirical comparisons between mechanisms.  
+[Experiments](https://github.com/gonzalo-munillag/Exponential_Randomised_Response/tree/main/Experiments): Folder containing all the empirical comparisons between mechanisms.  
 differential-privacy-library-main: Folder containing the diffprivlib library with the addition of Exponential Randomised Response
 
 ## Setup
