@@ -8,4 +8,4 @@
 **mechanisms.py**: Executable from permute_and_flip_main which enables the execution of private selection mechanisms.     
 
 
-You may find Ryan McKenna original permute and flip code base [here](https://github.com/ryan112358/permute-and-flip).
+You may find Ryan McKenna original permute and flip's codebase [here](https://github.com/ryan112358/permute-and-flip).
