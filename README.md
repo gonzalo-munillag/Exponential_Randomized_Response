@@ -6,7 +6,7 @@ This repository contains the code to reproduce the publication "---".
 ## Contents
 
 [Experiments](https://github.com/gonzalo-munillag/Exponential_Randomised_Response/tree/main/Experiments): Folder containing all the empirical comparisons between mechanisms.  
-differential-privacy-library-main: Folder containing the diffprivlib library with the addition of Exponential Randomised Response
+[differential-privacy-library-main](https://github.com/gonzalo-munillag/Exponential_Randomised_Response/tree/main/differential-privacy-library-main): Folder containing the diffprivlib library from IBM ([Original here](https://github.com/IBM/differential-privacy-library)) with the addition of the Exponential Randomised Response. 
 
 ## Setup
 
