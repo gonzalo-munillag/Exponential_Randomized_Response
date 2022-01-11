@@ -1,4 +1,5 @@
-# Exponential Randomised Response: Combining the Exponential Mechanism and Randomized Response to Increase Utility in Differentially Private Non-Numeric Queries
+# Exponential Randomised Response 
+## Combining the Exponential Mechanism and Randomized Response to Increase Utility in Differentially Private Selection
 
 This repository contains the code to reproduce the publication "---".
 
