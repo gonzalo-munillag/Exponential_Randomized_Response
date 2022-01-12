@@ -1,6 +1,6 @@
 # Exponential Randomized Response 
 ### Combining the Exponential Mechanism and Randomized Response to Increase Utility in Differentially Private Selection
-### This repository contains the code to reproduce the publication "---".
+### This repository contains the code to reproduce the publication [Exponential Randomized Response: Boosting Utility in Differentially Private Selection](https://arxiv.org/abs/2201.03913).
 
 ## Contents
 
