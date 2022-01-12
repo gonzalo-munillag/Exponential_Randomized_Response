@@ -188,7 +188,7 @@ class Exponential(DPMechanism):
         return self.candidates[idx] if self.candidates else idx
 
 ##############################################################################################################################
-#### I defined a new class based on the Exponential class that implements the new mechanism: Enhanced randomized response ###
+#### I defined a new class based within the Exponential class that implements the new mechanism: Enhanced randomized response 
 ##############################################################################################################################
 
 class EnhancedRandomizedResponse(DPMechanism):
