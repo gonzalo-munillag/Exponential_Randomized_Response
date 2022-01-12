@@ -19,7 +19,7 @@ I would like to thank Ryan McKenna for kindly providing the codebase of his mech
 
 $ pip install .
 
-2) In a .py source code or Jupyter Notebook cell import the exponential mechanism functionality
+2) Import the exponential mechanism functionality in a .py source code or Jupyter Notebook cell
 
 from diffprivlib.mechanisms import exponential
 
