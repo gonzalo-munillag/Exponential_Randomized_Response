@@ -187,9 +187,9 @@ class Exponential(DPMechanism):
 
         return self.candidates[idx] if self.candidates else idx
 
-##########################################################################################
+##############################################################################################################################
 #### I defined a new class based on the Exponential class that implements the new mechanism: Enhanced randomized response ###
-##########################################################################################
+##############################################################################################################################
 
 class EnhancedRandomizedResponse(DPMechanism):
     r"""
@@ -310,6 +310,8 @@ class EnhancedRandomizedResponse(DPMechanism):
 
         return utility, candidates, measure
 
+    ## Modified
+    ###########
     @classmethod
     def _find_probabilities(cls, epsilon, sensitivity, p, utility, monotonic, measure): ## Modified
         scale = epsilon / sensitivity / (2 - monotonic) if sensitivity / epsilon > 0 else float("inf")
@@ -345,6 +347,8 @@ class EnhancedRandomizedResponse(DPMechanism):
             probabilities[idx] += (p/number_categoris_equal_p) ## Modified
 
         return np.cumsum(probabilities)
+    ## End
+    ###########
 
     def _check_all(self, value):
         super()._check_all(value)
