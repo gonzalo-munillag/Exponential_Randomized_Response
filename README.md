@@ -2,7 +2,7 @@
 ### Combining the Exponential Mechanism and Randomized Response to Increase Utility in Differentially Private Selection
 ### This repository contains the code to reproduce the publication [Exponential Randomized Response: Boosting Utility in Differentially Private Selection](https://arxiv.org/abs/2201.03913).
 
-## NOTE!!! The algorithm only works  assumming certain dataset types (quality function distributions). Further refactoring is needed to work for all datasets.
+## NOTE!!! The algorithm only works  assumming certain dataset types (quality function distributions). Further refactoring is needed to enable all datasets.
 
 ## Contents
 
